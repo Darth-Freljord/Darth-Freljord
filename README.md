@@ -3,7 +3,7 @@
 
 I'm a problem-solver who thrives at the intersection of **AI, software engineering, and real-world systems**. From building real-time PPE detection systems that got presented at **AAAI 2025**, to implementing enterprise ERP solutions at scale — I love turning complex challenges into clean, impactful solutions.
 
-Currently at **PAN Home**, I wear many hats: software engineer, network engineer, and AI engineer — all while leading the development and rollout of **Odoo ERP** and managing existing systems like **Infor LN** and **WMS**.
+Currently at **PAN Home**, I wear many hats: software engineer, network engineer, and AI engineer — all while working on the development and rollout of **Odoo ERP** and managing existing systems like **Infor LN** and **WMS**.
 
 I'm passionate about **Computer Vision**, **Machine Learning**, and building things that actually work in the real world.
 
@@ -37,7 +37,7 @@ BSc (Hons) in Computer Systems 📅 *Sept 2021 – May 2025*
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- Leading the development and implementation of **Odoo ERP** across the business.
+- Working on the development and implementation of **Odoo ERP** across the business.
 - Managing and maintaining existing ERP systems including **Infor LN** and **WMS**.
 - Contributed to debugging and improving the company's **iOS and Android applications**.
 - Takes on cross-functional roles spanning software engineering, network engineering, and AI engineering as needed.
@@ -148,9 +148,6 @@ University collaboration platform featuring real-time chat, task assignment, and
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 ![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
 ![Magento](https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white)
-
-**Tools & Platforms:**
-`Git` `Docker` `Firebase` `Jupyter Notebooks` `PyCharm` `Odoo ERP` `Infor LN` `WMS` `Google Ads` `Magento`
 
 <!---
 Darth-Freljord/Darth-Freljord is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
