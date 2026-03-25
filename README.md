@@ -20,7 +20,7 @@ P.S I absolutely love cookies too :)
 **Heriot-Watt University** — Dubai, UAE
 BSc (Hons) in Computer Systems 📅 *Sept 2021 – May 2025*
 - **Specialization:** Computer Vision, Machine Learning & AI, Software Engineering
-- **Award:** Second Class Honours | Deputy Principal Award
+- **Award:** Deputy Principal Award
 - **Relevant Coursework:** AI & Intelligent Agents, Data Structures & Algorithms, Computer Network Security, Operating Systems & Concurrency, Software Engineering, Database Management Systems
 
 ---
