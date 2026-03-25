@@ -59,7 +59,7 @@ BSc (Hons) in Computer Systems 📅 *Sept 2021 – May 2025*
 
 ## 💻 Projects
 
-### 01 — PPE Detection System *(Dissertation)*
+### 01 — 🔗 PPE Detection System (https://github.com/Darth-Freljord/PPE-Detection-using-YOLOv5) 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![YOLOv5](https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
@@ -73,7 +73,7 @@ Real-time PPE compliance system for construction and industrial environments. Ac
 
 ---
 
-### 02 — Medical Mask Detection
+### 02 — 🔗 Medical Mask Detection
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![YOLOv3](https://img.shields.io/badge/YOLOv3-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
