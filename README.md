@@ -59,7 +59,7 @@ BSc (Hons) in Computer Systems 📅 *Sept 2021 – May 2025*
 
 ## 💻 Projects
 
-### 01 — 🔗 PPE Detection System (https://github.com/Darth-Freljord/PPE-Detection-using-YOLOv5) 
+### 01 — 🔗 [PPE Detection System](https://github.com/Darth-Freljord/PPE-Detection-using-YOLOv5) 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![YOLOv5](https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
@@ -97,7 +97,7 @@ University collaboration platform featuring real-time chat, task assignment, and
 
 ---
 
-### 04 — [Issuu Document Tracker — Data Analytics App](https://github.com/Darth-Freljord/CW-2-IP)
+### 04 — 🔗 [Issuu Document Tracker — Data Analytics App](https://github.com/Darth-Freljord/CW-2-IP)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
