@@ -27,7 +27,7 @@ BSc (Hons) in Computer Systems 📅 *Sept 2021 – May 2025*
 
 ## 💼 Work Experience
 
-### PAN Home — Sharjah, UAE
+### [PAN Home — Sharjah, UAE](https://www.panhomestores.com/uae_en/)
 **Junior IT Engineer** 📅 *Oct 2025 – Present*
 
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
@@ -45,7 +45,7 @@ BSc (Hons) in Computer Systems 📅 *Sept 2021 – May 2025*
 
 ---
 
-### PAN Home — Sharjah, UAE
+### [PAN Home — Sharjah, UAE](https://www.panhomestores.com/uae_en/)
 **Digital Marketing Intern** 📅 *May 2023 – Aug 2023*
 
 ![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
@@ -106,7 +106,16 @@ University collaboration platform featuring real-time chat, task assignment, and
 ![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 ![Graphviz](https://img.shields.io/badge/Graphviz-294172?style=for-the-badge&logo=graphviz&logoColor=white)
 
-Python data analytics application that processes and visualises document tracking data from the Issuu publishing platform. Features views by country/continent, browser analysis, top reader profiling, and an "Also Likes" recommendation engine with a Graphviz relationship graph. Supports both a **Tkinter GUI** and full **CLI interface**.
+Python data analytics application that processes and visualises document tracking data from the Issuu publishing platform. Features views by country/continent, browser analysis, top reader profiling, and an "Also Likes" recommendation engine with a Graphviz relationship graph. Supports both a **Tkinter GUI** and full **CLI interface**. 
+
+### 05 — [MasterMind Game — Raspberry Pi](https://github.com/Darth-Freljord/Mastermind-Game-Raspberry-Pi)
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![ARM Assembly](https://img.shields.io/badge/ARM_Assembly-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+Low-level implementation of the classic MasterMind board game in **C and inline ARM Assembly**, deployed on a **Raspberry Pi 3**. Player input is handled entirely through a single button, with a two-LED system and a **16×2 LCD display** providing all visual feedback. The sequence-matching algorithm is implemented directly in **ARM Assembly** with inlined GPIO control — no external libraries used.
 
 ## 📄 Publications & Achievements
 
