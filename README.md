@@ -6,6 +6,7 @@ I'm a problem-solver who thrives at the intersection of **AI, software engineeri
 Currently at **PAN Home**, I wear many hats: software engineer, network engineer, and AI engineer — all while working on the development and rollout of **Odoo ERP** and managing existing systems like **Infor LN** and **WMS**.
 
 I'm passionate about **Computer Vision**, **Machine Learning**, and building things that actually work in the real world.
+P.S I absolutely love cookies too :)
 
 - 📫 Reach me at: **syedsuhail21.ahmed@gmail.com**
 - 🔗 LinkedIn: [linkedin.com/in/syedsuhail21](https://www.linkedin.com/in/syedsuhail21)
