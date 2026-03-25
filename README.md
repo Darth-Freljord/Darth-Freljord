@@ -97,6 +97,16 @@ University collaboration platform featuring real-time chat, task assignment, and
 
 ---
 
+### 04 — [Issuu Document Tracker — Data Analytics App](https://github.com/Darth-Freljord/CW-2-IP)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![Graphviz](https://img.shields.io/badge/Graphviz-294172?style=for-the-badge&logo=graphviz&logoColor=white)
+
+Python data analytics application that processes and visualises document tracking data from the Issuu publishing platform. Features views by country/continent, browser analysis, top reader profiling, and an "Also Likes" recommendation engine with a Graphviz relationship graph. Supports both a **Tkinter GUI** and full **CLI interface**.
+
 ## 📄 Publications & Achievements
 
 - 📰 **Published Research Paper** *(Indexed on Google Scholar)*
