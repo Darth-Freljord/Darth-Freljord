@@ -86,7 +86,7 @@ Computer vision tool to detect medical masks in images with a real-time preproce
 
 ---
 
-### 03 — Collabrain *(Full Stack App)*
+### 03 — [Collabrain](https://github.com/cybertechy/Collabrain) *Full Stack Application*
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
